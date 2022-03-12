@@ -22,6 +22,18 @@
         "machine_end_gcode": { "default_value": "M104 S0\nM140 S0\n;Retract the filament\nG92 E0\nG1 E-3 F300\nG28\nM84" },
         "machine_width": { "default_value": 300 },
         "machine_depth": { "default_value": 250 },
+        "machine_head_with_fans_polygon":
+        {
+            "default_value": [
+                [-33, 55],
+                [-33, -55],
+                [44, 55],
+                [44, -55]
+            ]
+        },
+        "gantry_height": {
+            "value": "13"
+        },
         "machine_height": { "default_value": 300 },
         "machine_extruder_count": { "default_value": 1 }
     }
