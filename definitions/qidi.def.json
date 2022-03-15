@@ -16,7 +16,7 @@
         "_platform_texture": "Ultimaker2backplate.png",
         "first_start_actions": ["MachineSettingsAction"],
         "machine_extruder_trains": { "0": "qidi_extruder_0" },
-        "supports_usb_connection": false,
+        "supports_usb_connection": true,
         "exclude_materials": [
             "ultimaker_abs_black",
             "ultimaker_abs_blue",
