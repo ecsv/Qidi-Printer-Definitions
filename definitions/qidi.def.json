@@ -75,7 +75,7 @@
         "machine_heated_bed": { "default_value": true },
         "machine_max_feedrate_x": { "default_value": 200 },
         "machine_max_feedrate_y": { "default_value": 200 },
-        "machine_max_feedrate_z": { "default_value": 5 },
+        "machine_max_feedrate_z": { "default_value": 10 },
         "machine_max_acceleration_x": { "value": 1000 },
         "machine_max_acceleration_y": { "value": 1000 },
         "machine_max_acceleration_z": { "value": 100 },
