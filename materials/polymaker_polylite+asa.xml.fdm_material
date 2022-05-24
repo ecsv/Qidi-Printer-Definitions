@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
   <metadata>
     <name>
       <brand>Polymaker</brand>
@@ -7,90 +7,25 @@
       <color>Black</color>
       <label>PolyLite ASA</label>
     </name>
-    <color_code>#c826aa</color_code>
-    <GUID>7497d39b-1728-46e8-a9fb-1674fa9e045b</GUID>
-    <cura:pva_compatible>False</cura:pva_compatible>
-    <cura:breakaway_compatible>False</cura:breakaway_compatible>
-    <cura:ppa_original_file>generic_abs</cura:ppa_original_file>
-    <version>10</version>
+    <version>1</version>
+    <GUID>416eead4-0d8e-4f0b-8bfc-a91a519befa5</GUID>
+    <color_code>#ffe92a</color_code>
+    <description>This is the baseline profile for ASA material for the Print Profile Assistant. ASA has been specially developed for industrial applications and is characterised by its high UV and weather resistance.</description>
+    <adhesion_info />
   </metadata>
   <properties>
-    <diameter>1.75</diameter>
     <density>1.1</density>
+    <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="surface energy">70</setting>
-    <setting key="break speed">25</setting>
-    <setting key="end of filament purge length">20</setting>
-    <setting key="standby temperature">85</setting>
-    <cura:setting key="speed_topbottom">35</cura:setting>
-    <cura:setting key="support_top_distance">0.2</cura:setting>
-    <setting key="anti ooze retract speed">5</setting>
-    <cura:setting key="skin_overlap">20</cura:setting>
-    <cura:setting key="material_final_print_temperature">240.0</cura:setting>
-    <setting key="print temperature">260.0</setting>
-    <setting key="break preparation temperature">260.0</setting>
-    <setting key="shrinkage percentage">0.9</setting>
-    <setting key="break preparation position">-16</setting>
-    <setting key="build volume temperature">50</setting>
-    <cura:setting key="infill_line_width">0.4</cura:setting>
-    <cura:setting key="speed_layer_0">20</cura:setting>
-    <cura:setting key="speed_wall">45</cura:setting>
-    <setting key="anti ooze retract position">-4</setting>
-    <cura:setting key="speed_infill">50</cura:setting>
-    <cura:setting key="support_bottom_distance">0.4</cura:setting>
-    <setting key="end of filament purge speed">0.5</setting>
-    <cura:setting key="prime_tower_enable">no</cura:setting>
-    <setting key="heated bed temperature">100</setting>
-    <cura:setting key="material_initial_print_temperature">245.0</cura:setting>
-    <setting key="no load move factor">0.947225981</setting>
+    <setting key="print temperature">240.0</setting>
+    <setting key="heated bed temperature">90.0</setting>
+    <setting key="standby temperature">200.0</setting>
     <setting key="adhesion tendency">0</setting>
-    <setting key="flush purge speed">0.5</setting>
-    <cura:setting key="cool_fan_speed_min">5</cura:setting>
-    <setting key="print cooling">2</setting>
-    <cura:setting key="support_extruder_nr">0</cura:setting>
-    <setting key="retraction amount">5</setting>
-    <cura:setting key="wall_thickness">1</cura:setting>
-    <setting key="maximum park duration">300</setting>
-    <setting key="break temperature">102.8</setting>
-    <setting key="break preparation speed">10</setting>
-    <cura:setting key="speed_print">60</cura:setting>
-    <setting key="break position">-50</setting>
-    <cura:setting key="cool_fan_speed_max">100</cura:setting>
-    <cura:setting key="cool_min_layer_time">7</cura:setting>
-    <cura:setting key="machine_nozzle_cool_down_speed">0.85</cura:setting>
-    <setting key="flush purge length">60</setting>
-    <cura:setting key="machine_nozzle_heat_up_speed">1.5</cura:setting>
-    <cura:setting key="speed_wall_0">35</cura:setting>
-    <machine>
-      <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S5" />
-      <hotend id="AA 0.25">
-        <setting key="hardware compatible">yes</setting>
-      </hotend>
-      <hotend id="AA 0.4">
-        <setting key="hardware compatible">yes</setting>
-      </hotend>
-      <hotend id="BB 0.8" />
-      <hotend id="AA 0.8">
-        <setting key="hardware compatible">yes</setting>
-      </hotend>
-      <hotend id="BB 0.4" />
-      <hotend id="CC 0.6" />
-    </machine>
-	    <machine>
-      <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S3" />
-      <hotend id="AA 0.25">
-        <setting key="hardware compatible">yes</setting>
-      </hotend>
-      <hotend id="AA 0.4">
-        <setting key="hardware compatible">yes</setting>
-      </hotend>
-      <hotend id="BB 0.8" />
-      <hotend id="AA 0.8">
-        <setting key="hardware compatible">yes</setting>
-      </hotend>
-      <hotend id="BB 0.4" />
-      <hotend id="CC 0.6" />
-    </machine>
+    <setting key="surface energy">70</setting>
+    <setting key="build volume temperature">36</setting>
+    <setting key="print cooling">20.0</setting>
+    <setting key="retraction amount">1.0</setting>
+    <setting key="retraction speed">35.0</setting>
   </settings>
 </fdmmaterial>
