@@ -6,7 +6,7 @@
     {
         "visible": true,
         "author": "QIDI",
-        "manufacturer": "X-series",
+        "manufacturer": "Qidi",
         "exclude_materials": ["generic_pva_175", "generic_s_green_175"],
         "platform": "X-MAX.stl",
         "platform_offset": [-212, -36.3, 136],
