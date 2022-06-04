@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fdmmaterial xmlns="http://www.qidi.com/material" version="1.3">
+    <metadata>
+        <name>
+            <brand>Generic</brand>
+            <material>PLA</material>
+            <color>Generic</color>
+        </name>
+        <GUID>506c9f0d-e3aa-4bd4-b2d2-23e2425b1aa9</GUID>
+        <version>23</version>
+        <color_code>#bb1e10</color_code>
+    </metadata>
+    <properties>
+        <density>1.24</density>
+        <diameter>2.85</diameter>
+    </properties>
+    <settings>
+        <setting key="retraction amount">1.5</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="build volume temperature">0</setting>
+        <setting key="print temperature">200</setting>
+        <setting key="heated bed temperature">60</setting>
+        <setting key="heated bed temperature initial layer">60</setting>
+        <setting key="standby temperature">150</setting>
+        <setting key="print cooling">100</setting>
+    </settings>
+</fdmmaterial>

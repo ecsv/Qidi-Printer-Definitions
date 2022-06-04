@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fdmmaterial xmlns="http://www.qidi.com/material" version="1.3">
+    <metadata>
+        <name>
+            <brand>Generic</brand>
+            <material>UltraPA</material>
+            <color>Generic</color>
+        </name>
+        <GUID>28fb4162-db74-49e1-9008-d05f1e8bef5c</GUID>
+        <version>23</version>
+        <color_code>#FFEBCD</color_code>
+    </metadata>
+    <properties>
+        <density>1.14</density>
+        <diameter>2.85</diameter>
+    </properties>
+    <settings>
+        <setting key="retraction amount">3</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="build volume temperature">0</setting>
+        <setting key="print temperature">300</setting>
+        <setting key="heated bed temperature">80</setting>
+        <setting key="heated bed temperature initial layer">80</setting>
+        <setting key="standby temperature">100</setting>
+        <setting key="print cooling">20</setting>
+    </settings>
+</fdmmaterial>

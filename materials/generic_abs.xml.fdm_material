@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fdmmaterial xmlns="http://www.qidi.com/material" version="1.3">
+    <metadata>
+        <name>
+            <brand>Generic</brand>
+            <material>ABS</material>
+            <color>Generic</color>
+        </name>
+        <GUID>60636bb4-518f-42e7-8237-fe77b194ebe0</GUID>
+        <version>23</version>
+        <color_code>#ffc924</color_code>
+    </metadata>
+    <properties>
+        <density>1.10</density>
+        <diameter>2.85</diameter>
+    </properties>
+    <settings>
+        <setting key="retraction amount">1.5</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="build volume temperature">80</setting>
+        <setting key="print temperature">240</setting>
+        <setting key="heated bed temperature">110</setting>
+        <setting key="heated bed temperature initial layer">110</setting>
+        <setting key="standby temperature">200</setting>
+        <setting key="print cooling">20</setting>
+    </settings>
+</fdmmaterial>

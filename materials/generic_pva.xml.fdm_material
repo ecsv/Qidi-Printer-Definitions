@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fdmmaterial xmlns="http://www.qidi.com/material" version="1.3">
+    <metadata>
+        <name>
+            <brand>Generic</brand>
+            <material>PVA</material>
+            <color>Generic</color>
+        </name>
+        <GUID>86a89ceb-4159-47f6-ab97-e9953803d70f</GUID>
+        <version>23</version>
+        <color_code>#CD950C</color_code>
+    </metadata>
+    <properties>
+        <density>1.23</density>
+        <diameter>2.85</diameter>
+    </properties>
+    <settings>
+        <setting key="retraction amount">3</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="build volume temperature">0</setting>
+        <setting key="print temperature">190</setting>
+        <setting key="heated bed temperature">60</setting>
+        <setting key="heated bed temperature initial layer">60</setting>
+        <setting key="standby temperature">110</setting>
+        <setting key="print cooling">100</setting>
+    </settings>
+</fdmmaterial>
