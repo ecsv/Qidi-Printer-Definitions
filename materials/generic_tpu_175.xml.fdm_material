@@ -15,8 +15,8 @@
         <diameter>1.75</diameter>
     </properties>
     <settings>
-        <setting key="retraction amount">1.5</setting>
-        <setting key="retraction speed">30</setting>
+        <setting key="retraction amount">0.8</setting>
+        <setting key="retraction speed">25</setting>
         <setting key="build volume temperature">0</setting>
         <setting key="print temperature">220</setting>
         <setting key="heated bed temperature">60</setting>
