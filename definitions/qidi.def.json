@@ -107,6 +107,8 @@
         "multiple_mesh_overlap": { "value": "0" },
 
         "adaptive_layer_height_variation": { "value": 0.04 },
-        "adaptive_layer_height_variation_step": { "value": 0.04 }
+        "adaptive_layer_height_variation_step": { "value": 0.04 },
+
+        "optimize_wall_printing_order": { "value": "True" }
     }
 }
