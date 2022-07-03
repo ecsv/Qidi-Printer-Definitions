@@ -50,6 +50,7 @@
         "infill_overlap": { "value": 30.0 },
         "infill_wipe_dist": { "value": 0.0 },
         "infill_before_walls": { "value": false },
+        "zig_zaggify_infill": { "value": true },
 
         "z_seam_type": { "value": "'sharpest_corner'" },
         "z_seam_position": { "value": "'backright'" },
