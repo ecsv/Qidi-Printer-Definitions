@@ -57,7 +57,9 @@
         "retraction_combing": { "value": "'no_outer_surfaces'"},
         "travel_retract_before_outer_wall": { "value": false },
         "travel_avoid_supports": { "value": true },
-        "retraction_hop": { "value": 0.2 },
+        "retraction_hop_enabled": { "value": true },
+        "retraction_hop": { "value": 0.48 },
+        "retraction_hop_only_when_collides": { "value": true },
         "retraction_hop_after_extruder_switch": { "value": false },
 
         "speed_print": { "value": 50.0 } ,
