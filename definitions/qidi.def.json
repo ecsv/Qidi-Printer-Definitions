@@ -40,7 +40,7 @@
         "switch_extruder_retraction_speeds": { "value": 20 },
 
         "wall_thickness": { "value": "line_width * 3" },
-        "wall_0_wipe_dist": { "value": 0.0 },
+        "wall_0_wipe_dist": { "value": "machine_nozzle_size * 2" },
         "travel_compensate_overlapping_walls_0_enabled": { "value": "False" },
         "filter_out_tiny_gaps": { "value": false },
         "skin_overlap": { "value": 10.0 },
