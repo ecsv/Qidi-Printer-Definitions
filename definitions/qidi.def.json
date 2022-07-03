@@ -45,7 +45,8 @@
         "filter_out_tiny_gaps": { "value": false },
         "skin_overlap": { "value": 10.0 },
 
-        "infill_pattern": { "value": "'zigzag' if infill_sparse_density > 10 else 'grid'" },
+        "infill_pattern": { "value": "'lines' if infill_sparse_density > 90 else 'gyroid'" },
+        "infill_sparse_density": { "value": 15.0 },
         "infill_overlap": { "value": 30.0 },
         "infill_wipe_dist": { "value": 0.0 },
         "infill_before_walls": { "value": false },
