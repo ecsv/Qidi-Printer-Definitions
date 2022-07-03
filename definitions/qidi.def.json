@@ -54,7 +54,7 @@
         "z_seam_position": { "value": "'backright'" },
         "z_seam_corner": { "value": "'z_seam_corner_weighted'" },
         "retraction_combing": { "value": "'no_outer_surfaces'"},
-        "travel_retract_before_outer_wall": { "value": true },
+        "travel_retract_before_outer_wall": { "value": false },
         "travel_avoid_supports": { "value": true },
         "retraction_hop": { "value": 0.2 },
         "retraction_hop_after_extruder_switch": { "value": false },
