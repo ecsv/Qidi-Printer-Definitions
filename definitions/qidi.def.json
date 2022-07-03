@@ -51,9 +51,9 @@
         "infill_wipe_dist": { "value": 0.0 },
         "infill_before_walls": { "value": false },
 
-        "z_seam_type": { "value": "'back'" },
+        "z_seam_type": { "value": "'sharpest_corner'" },
         "z_seam_position": { "value": "'backright'" },
-        "z_seam_corner": { "value": "'z_seam_corner_weighted'" },
+        "z_seam_corner": { "value": "'z_seam_corner_inner'" },
         "retraction_combing": { "value": "'no_outer_surfaces'"},
         "travel_retract_before_outer_wall": { "value": false },
         "travel_avoid_supports": { "value": true },
