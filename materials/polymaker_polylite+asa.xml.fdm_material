@@ -27,6 +27,6 @@
     <setting key="standby temperature">200.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">70</setting>
-    <setting key="print cooling">20.0</setting>
+    <setting key="print cooling">10.0</setting>
   </settings>
 </fdmmaterial>
