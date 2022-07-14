@@ -35,7 +35,7 @@
 
         "retraction_min_travel": { "value": 1.5 },
         "retraction_count_max": { "value": 100 },
-        "retraction_extrusion_window": { "value": 1.5 },
+        "retraction_extrusion_window": { "value": 0.5 },
         "switch_extruder_retraction_amount": { "value": 10 },
         "switch_extruder_retraction_speeds": { "value": 20 },
 
