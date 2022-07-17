@@ -19,7 +19,7 @@
         "has_materials": true,
         "has_machine_quality": true,
         "preferred_material": "generic_pla",
-        "preferred_quality_type": "normal",
+        "preferred_quality_type": "xmax_fast",
         "has_variants": true,
         "variants_name": "Nozzle Size",
         "preferred_variant_name": "0.40mm Nozzle"
