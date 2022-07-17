@@ -62,6 +62,8 @@
         "machine_max_jerk_z": { "default_value": 0.4 },
         "machine_max_jerk_e": { "default_value": 5 },
 
+        "retraction_amount": { "value": 0.5 },
+        "retraction_speed": { "value": 25 },
         "retraction_min_travel": { "value": 1.5 },
         "retraction_count_max": { "value": 90 },
         "retraction_extrusion_window": { "value": 0.5 },
