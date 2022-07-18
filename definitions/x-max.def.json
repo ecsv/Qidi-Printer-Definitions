@@ -60,8 +60,8 @@
         "machine_max_acceleration_y": { "default_value": 1000 },
         "machine_max_acceleration_z": { "default_value": 100 },
         "machine_max_acceleration_e": { "default_value": 5000 },
-        "machine_acceleration": { "default_value": 500 },
-        "machine_max_jerk_xy": { "default_value": 10 },
+        "machine_acceleration": { "default_value": 1000 },
+        "machine_max_jerk_xy": { "default_value": 20 },
         "machine_max_jerk_z": { "default_value": 0.4 },
         "machine_max_jerk_e": { "default_value": 5 },
 
@@ -113,9 +113,9 @@
         "speed_travel_layer_0": { "value": "speed_travel * 0.8" },
         "skirt_brim_speed": { "value": "speed_layer_0" },
         "speed_z_hop": { "value": 5 },
-        "acceleration_print": { "value": 500 },
-        "acceleration_travel": { "value": 500 },
-        "jerk_print": { "value": 6 },
+        "acceleration_print": { "value": 1000 },
+        "acceleration_travel": { "value": 1000 },
+        "jerk_print": { "value": 15 },
         "jerk_travel": { "value": "jerk_print" },
         "jerk_travel_layer_0": { "value": "jerk_travel" },
 
