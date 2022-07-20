@@ -84,7 +84,6 @@
         "travel_compensate_overlapping_walls_0_enabled": { "value": "False" },
         "filter_out_tiny_gaps": { "value": false },
         "skin_overlap": { "value": 10.0 },
-	"material_alternate_walls": { "value": true },
 
         "infill_pattern": { "value": "'lines' if infill_sparse_density > 90 else 'gyroid'" },
         "infill_sparse_density": { "value": 15.0 },
