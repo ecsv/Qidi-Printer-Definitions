@@ -19,7 +19,7 @@
   </properties>
   <settings>
     <setting key="build volume temperature">80</setting>
-    <setting key="print temperature">240.0</setting>
+    <setting key="print temperature">250.0</setting>
     <setting key="heated bed temperature">85.0</setting>
     <setting key="heated bed temperature initial layer">85.0</setting>
     <setting key="standby temperature">200.0</setting>
