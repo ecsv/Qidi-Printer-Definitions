@@ -49,6 +49,7 @@
 
         "material_diameter": { "default_value": 1.75 },
         "material_flow": { "default_value": 92.3 },
+	"material_flow_layer_0": { "value": "material_flow" },
         "machine_heated_bed": { "default_value": true },
         "machine_heat_zone_length": { "default_value": 12 },
         "machine_nozzle_heat_up_speed": { "default_value": 1.6 },
