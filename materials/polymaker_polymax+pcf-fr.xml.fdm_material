@@ -85,7 +85,8 @@
     <cura:setting key="machine_nozzle_cool_down_speed">0.85</cura:setting>
     <cura:setting key="wall_0_inset">0</cura:setting>
     <cura:setting key="speed_layer_0">25</cura:setting>
-    <cura:setting key="cool_min_layer_time">7</cura:setting>
+    <cura:setting key="cool_min_layer_time">20</cura:setting>
+    <cura:setting key="cool_lift_head">true</cura:setting>
     <setting key="heated bed temperature">110</setting>
     <setting key="flush purge speed">0.5</setting>
     <cura:setting key="support_interface_density">87.5</cura:setting>
