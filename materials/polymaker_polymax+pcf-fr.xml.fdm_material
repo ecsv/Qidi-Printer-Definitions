@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+  <metadata>
+    <name>
+      <brand>Polymaker</brand>
+      <material>PolyMax PC-FR</material>
+      <color>Black</color>
+      <label>PC-FR</label>
+    </name>
+    <cura:breakaway_compatible>False</cura:breakaway_compatible>
+    <color_code>#f692ad</color_code>
+    <version>15</version>
+    <cura:ppa_original_file>generic_pc</cura:ppa_original_file>
+    <cura:pva_compatible>False</cura:pva_compatible>
+    <GUID>c19b6433-bf3f-4aae-8fe8-8d263cf1e9f6</GUID>
+  </metadata>
+  <properties>
+    <density>1.2</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="end of filament purge length">20</setting>
+    <cura:setting key="cool_fan_speed_max">100</cura:setting>
+    <cura:setting key="cool_min_layer_time_fan_speed_max">5</cura:setting>
+    <cura:setting key="infill_overlap">0</cura:setting>
+    <cura:setting key="infill_overlap_mm">0.05</cura:setting>
+    <setting key="break preparation temperature">260.0</setting>
+    <setting key="flush purge length">60</setting>
+    <cura:setting key="retraction_prime_speed">15</cura:setting>
+    <cura:setting key="multiple_mesh_overlap">0</cura:setting>
+    <setting key="print temperature">260.0</setting>
+    <setting key="retraction speed">35</setting>
+    <setting key="break temperature">120.0</setting>
+    <setting key="anti ooze retract position">-2</setting>
+    <cura:setting key="prime_tower_wipe_enabled">yes</cura:setting>
+    <cura:setting key="retraction_hop">2</cura:setting>
+    <setting key="break preparation position">-16</setting>
+    <cura:setting key="cool_min_speed">6</cura:setting>
+    <cura:setting key="speed_print">50</cura:setting>
+    <cura:setting key="prime_tower_enable">no</cura:setting>
+    <cura:setting key="raft_airgap">0.25</cura:setting>
+    <cura:setting key="support_extruder_nr">0</cura:setting>
+    <cura:setting key="support_bottom_distance">0.4</cura:setting>
+    <cura:setting key="ooze_shield_angle">40</cura:setting>
+    <cura:setting key="brim_width">20</cura:setting>
+    <cura:setting key="speed_wall">40</cura:setting>
+    <setting key="surface energy">65</setting>
+    <cura:setting key="retraction_extrusion_window">1</cura:setting>
+    <cura:setting key="raft_interface_thickness">0.30000000000000004</cura:setting>
+    <cura:setting key="cool_fan_speed_min">0</cura:setting>
+    <cura:setting key="jerk_enabled">yes</cura:setting>
+    <cura:setting key="switch_extruder_prime_speed">15</cura:setting>
+    <cura:setting key="infill_line_width">0.4</cura:setting>
+    <cura:setting key="machine_nozzle_heat_up_speed">1.5</cura:setting>
+    <setting key="break position">-50</setting>
+    <setting key="break speed">25</setting>
+    <setting key="anti ooze retract speed">5</setting>
+    <cura:setting key="material_initial_print_temperature">255.0</cura:setting>
+    <cura:setting key="switch_extruder_retraction_amount">20</cura:setting>
+    <setting key="break preparation speed">2</setting>
+    <cura:setting key="retraction_count_max">80</cura:setting>
+    <cura:setting key="support_interface_pattern">lines</cura:setting>
+    <setting key="build volume temperature">50</setting>
+    <setting key="no load move factor">0.94</setting>
+    <cura:setting key="skin_overlap">30</cura:setting>
+    <cura:setting key="acceleration_enabled">yes</cura:setting>
+    <cura:setting key="wall_line_width_x">0.4</cura:setting>
+    <cura:setting key="machine_min_cool_heat_time_window">15</cura:setting>
+    <cura:setting key="speed_wall_0">25</cura:setting>
+    <cura:setting key="retraction_hop_only_when_collides">yes</cura:setting>
+    <setting key="maximum park duration">300</setting>
+    <cura:setting key="wall_thickness">1.2</cura:setting>
+    <cura:setting key="infill_wipe_dist">0.1</cura:setting>
+    <cura:setting key="infill_pattern">triangles</cura:setting>
+    <setting key="print cooling">0</setting>
+    <cura:setting key="cool_fan_full_at_height">0.47000000000000003</cura:setting>
+    <cura:setting key="switch_extruder_retraction_speeds">35</cura:setting>
+    <setting key="standby temperature">175</setting>
+    <setting key="shrinkage percentage">0.7</setting>
+    <cura:setting key="speed_topbottom">25</cura:setting>
+    <cura:setting key="jerk_print">15</cura:setting>
+    <cura:setting key="support_top_distance">0.2</cura:setting>
+    <setting key="end of filament purge speed">0.5</setting>
+    <cura:setting key="material_final_print_temperature">250.0</cura:setting>
+    <cura:setting key="machine_nozzle_cool_down_speed">0.85</cura:setting>
+    <cura:setting key="wall_0_inset">0</cura:setting>
+    <cura:setting key="speed_layer_0">25</cura:setting>
+    <cura:setting key="cool_min_layer_time">7</cura:setting>
+    <setting key="heated bed temperature">110</setting>
+    <setting key="flush purge speed">0.5</setting>
+    <cura:setting key="support_interface_density">87.5</cura:setting>
+    <setting key="adhesion tendency">0</setting>
+	<setting key="retraction amount">0.7</setting>
+   </settings>
+</fdmmaterial>
