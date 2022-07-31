@@ -48,7 +48,7 @@
         "machine_extruder_count": { "default_value": 1 },
 
         "material_diameter": { "default_value": 1.75 },
-        "material_flow": { "default_value": 92.3 },
+        "material_flow": { "value": "95 if layer_height >= 0.08 else 100" },
 	"material_flow_layer_0": { "value": "material_flow" },
         "machine_heated_bed": { "default_value": true },
         "machine_heat_zone_length": { "default_value": 12 },
