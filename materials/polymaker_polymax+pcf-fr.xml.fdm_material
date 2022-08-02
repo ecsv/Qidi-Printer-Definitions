@@ -92,6 +92,6 @@
     <setting key="flush purge speed">0.5</setting>
     <cura:setting key="support_interface_density">87.5</cura:setting>
     <setting key="adhesion tendency">0</setting>
-	<setting key="retraction amount">0.7</setting>
+	<setting key="retraction amount">1.0</setting>
    </settings>
 </fdmmaterial>
