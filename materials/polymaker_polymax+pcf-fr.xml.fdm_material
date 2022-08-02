@@ -71,7 +71,6 @@
     <setting key="maximum park duration">300</setting>
     <cura:setting key="wall_thickness">1.2</cura:setting>
     <cura:setting key="infill_wipe_dist">0.1</cura:setting>
-    <cura:setting key="infill_pattern">gyroid</cura:setting>
     <cura:setting key="infill_sparse_density">25</cura:setting>
     <setting key="print cooling">0</setting>
     <cura:setting key="cool_fan_full_at_height">0.47000000000000003</cura:setting>
