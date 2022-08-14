@@ -26,5 +26,7 @@
     <setting key="heated bed temperature initial layer">60</setting>
     <setting key="standby temperature">150.0</setting>
     <setting key="print cooling">100.0</setting>
+    <cura:setting key="material_linear_advance_enable">true</cura:setting>
+    <cura:setting key="material_linear_advance_factor">0.03925</cura:setting>
   </settings>
 </fdmmaterial>

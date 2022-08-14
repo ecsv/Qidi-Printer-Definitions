@@ -103,7 +103,7 @@
         "travel_retract_before_outer_wall": { "value": false },
         "travel_avoid_supports": { "value": true },
         "travel_avoid_distance": { "value": 3 },
-        "retraction_hop_enabled": { "value": true },
+        "retraction_hop_enabled": { "value": false },
         "retraction_hop": { "value": 0.48 },
         "retraction_hop_only_when_collides": { "value": true },
         "retraction_hop_after_extruder_switch": { "value": false },
@@ -127,6 +127,8 @@
         "jerk_travel_layer_0": { "value": "jerk_travel" },
 	"jerk_enabled": { "default_value": false },
 
+	"material_linear_advance_enable": { "default_value": true },
+	"material_linear_advance_factor": { "value": 0.04 },
         "build_volume_temperature": { "maximum_value": "80" },
         "material_print_temperature": { "maximum_value_warning": "350" },
         "material_print_temperature_layer_0": { "maximum_value_warning": "350" },

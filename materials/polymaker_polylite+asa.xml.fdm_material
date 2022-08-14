@@ -26,5 +26,7 @@
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">70</setting>
     <setting key="print cooling">10.0</setting>
+    <cura:setting key="material_linear_advance_enable">true</cura:setting>
+    <cura:setting key="material_linear_advance_factor">0.0398</cura:setting>
   </settings>
 </fdmmaterial>

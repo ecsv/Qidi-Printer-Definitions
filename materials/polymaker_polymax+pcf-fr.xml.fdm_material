@@ -93,5 +93,7 @@
     <setting key="adhesion tendency">0</setting>
 	<setting key="retraction amount">1.0</setting>
     <cura:setting key="material_flow">89.0</cura:setting>
+    <cura:setting key="material_linear_advance_enable">true</cura:setting>
+    <cura:setting key="material_linear_advance_factor">0.036</cura:setting>
    </settings>
 </fdmmaterial>
