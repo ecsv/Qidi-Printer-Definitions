@@ -30,7 +30,7 @@
         "machine_start_gcode": { "default_value": "START_PRINT EXTRUDER_TEMP={material_print_temperature_layer_0} BED_TEMP={material_bed_temperature_layer_0}\n" },
         "machine_end_gcode": { "default_value": "END_PRINT\n`" },
         "machine_width": { "default_value": 300 },
-        "machine_depth": { "default_value": 250 },
+        "machine_depth": { "default_value": 245 },
         "machine_head_with_fans_polygon":
         {
             "default_value": [
