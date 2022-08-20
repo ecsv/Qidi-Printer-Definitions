@@ -19,7 +19,8 @@
   </properties>
   <settings>
     <setting key="print temperature">230.0</setting>
-    <setting key="heated bed temperature">100.0</setting>
+    <setting key="heated bed temperature initial layer">95</setting>
+    <setting key="heated bed temperature initial layer">80</setting>
     <setting key="standby temperature">200.0</setting>
     <setting key="retraction speed">30.0</setting>
     <setting key="print cooling">5.0</setting>
