@@ -138,6 +138,11 @@
         "cool_fan_full_at_height": { "value": "layer_height_0 + 2 * layer_height" },
         "cool_min_layer_time": { "value": 10 },
 
+        "bridge_settings_enabled": { "default_value": true },
+        "bridge_fan_speed": { "default_value": 100 },
+        "bridge_fan_speed_2": { "resolve": "max(cool_fan_speed, 50)" },
+        "bridge_fan_speed_3": { "resolve": "max(cool_fan_speed, 20)" },
+
         "support_angle": { "value": "math.floor(math.degrees(math.atan(line_width/2.0/layer_height)))" },
         "support_pattern": { "value": "'zigzag'" },
         "support_brim_width": { "value": 4 },
