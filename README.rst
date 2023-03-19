@@ -2,12 +2,12 @@ Install printer
 ===============
 
 1. download appimage from https://github.com/Ultimaker/Cura/releases (we assume
-   here that it is cura 5.2) and save it as ~/cura
+   here that it is cura 5.3) and save it as ~/cura
 2. mark the appimage as executable (chmod +x ~/cura)
 3. start cura once via ~/cura and just close it again
-4.  Install printer definitions in ~/.local/share/cura/5.2::
+4.  Install printer definitions in ~/.local/share/cura/5.3::
 
-      curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.local/share/cura/5.2/ -xzv --strip-components=1
+      curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.local/share/cura/5.3/ -xzv --strip-components=1
 
 5. start cura again
 

@@ -98,7 +98,7 @@
 
         "z_seam_type": { "value": "'sharpest_corner'" },
         "z_seam_position": { "value": "'backright'" },
-        "z_seam_corner": { "value": "'z_seam_corner_inner'" },
+        "z_seam_corner": { "value": "'z_seam_corner_none'" },
         "retraction_combing": { "value": "'no_outer_surfaces'"},
         "travel_retract_before_outer_wall": { "value": false },
         "travel_avoid_supports": { "value": true },
@@ -148,7 +148,8 @@
         "support_brim_width": { "value": 4 },
         "support_z_distance": { "value": "layer_height if layer_height >= 0.16 else layer_height * 2" },
         "support_interface_offset": { "value": "support_offset" },
-        "support_use_towers": { "value": true },
+	"support_tower_roof_angle": { "value": "0 if support_interface_enable else 65" },
+	"support_tower_maximum_supported_diameter": {"value": "support_tower_diameter" },	
         "support_interface_enable": { "value": true },
 	"support_brim_enable": { "value": true },
 
@@ -156,10 +157,8 @@
         "skirt_line_count": { "value": 2 },
         "skirt_gap": { "value": 4 },
         "brim_replaces_support": { "value": false },
-        "raft_margin": { "value": 10 },
         "raft_airgap": { "value": 0.25 },
         "raft_surface_layers": { "value": 3 },
-        "raft_base_thickness": { "value": "0.3" },
 
         "meshfix_maximum_resolution": { "value": "0.25" },
         "meshfix_maximum_travel_resolution": { "value": "meshfix_maximum_resolution" },
@@ -169,6 +168,9 @@
         "adaptive_layer_height_variation_step": { "value": 0.04 },
 
         "optimize_wall_printing_order": { "value": "True" },
-        "skin_monotonic": { "value": true }
+        "skin_monotonic": { "value": "roofing_layer_count == 0" },
+	"top_bottom_pattern": {
+            "value": "'zigzag'"
+        }
     }
 }
