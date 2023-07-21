@@ -25,7 +25,8 @@
         "preferred_material": "generic_pla",
         "preferred_quality_type": "xmax_fast",
         "preferred_variant_name": "0.40mm Nozzle",
-        "variants_name": "Nozzle Size"
+        "variants_name": "Nozzle Size",
+        "post_processing_scripts": "[CreateThumbnail]\n[KlipperPreprocessor]"
     },
     "overrides":
     {

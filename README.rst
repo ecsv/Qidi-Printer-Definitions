@@ -8,6 +8,7 @@ Install printer
 4.  Install printer definitions in ~/.local/share/cura/5.4::
 
       curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.local/share/cura/5.4/ -xzv --strip-components=1
+      curl -L https://raw.githubusercontent.com/pedrolamas/klipper-preprocessor/master/KlipperPreprocessor.py -o ~/.local/share/cura/5.4/scripts/KlipperPreprocessor.py
 
 5. start cura again
 
