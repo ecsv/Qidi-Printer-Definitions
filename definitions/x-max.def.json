@@ -26,7 +26,7 @@
         "preferred_quality_type": "xmax_fast",
         "preferred_variant_name": "0.40mm Nozzle",
         "variants_name": "Nozzle Size",
-        "post_processing_scripts": "[CreateThumbnail]\\\\\\nwidth = 300\\\\\\nheight = 300\\\\\\n\\\\\\n\n[CreateThumbnail]\\\\\\nwidth = 32\\\\\\nheight = 32\\\\\\n\\\\\\n\n[KlipperPreprocessor]"
+        "post_processing_scripts": "[CreateThumbnail]\\\\\\nwidth = 300\\\\\\nheight = 300\\\\\\n\\\\\\n\n[CreateThumbnail]\\\\\\nwidth = 32\\\\\\nheight = 32\\\\\\n\\\\\\n\n"
     },
     "overrides":
     {
