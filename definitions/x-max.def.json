@@ -86,7 +86,7 @@
         "machine_name": { "default_value": "X-MAX" },
         "machine_nozzle_cool_down_speed": { "default_value": 0.75 },
         "machine_nozzle_heat_up_speed": { "default_value": 1.6 },
-        "machine_start_gcode": { "default_value": "START_PRINT EXTRUDER_TEMP={material_print_temperature_layer_0} BED_TEMP={material_bed_temperature_layer_0}\n" },
+        "machine_start_gcode": { "default_value": ";Nozzle diameter = {machine_nozzle_size}\n;Filament type = {material_type}\n;Filament name = {material_name}\n;Filament weight = {filament_weight}\n; M190 S{material_bed_temperature_layer_0}\n; M109 S{material_print_temperature_layer_0}\nSTART_PRINT EXTRUDER_TEMP={material_print_temperature_layer_0} BED_TEMP={material_bed_temperature_layer_0}\n" },
         "machine_width": { "default_value": 300 },
         "material_diameter": { "default_value": 1.75 },
         "material_final_print_temperature": { "value": "material_print_temperature" },
