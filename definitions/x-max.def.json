@@ -56,7 +56,7 @@
         "jerk_travel_layer_0": { "value": "jerk_travel" },
         "layer_height_0": { "value": "max(0.2, min(extruderValues('layer_height')))" },
         "machine_acceleration": { "default_value": 1000 },
-        "machine_depth": { "default_value": 249 },
+        "machine_depth": { "default_value": 245.5 },
         "machine_end_gcode": { "default_value": "END_PRINT\n" },
         "machine_extruder_count": { "default_value": 1 },
         "machine_head_with_fans_polygon":
