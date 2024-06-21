@@ -22,7 +22,7 @@
             -36.3,
             136
         ],
-        "post_processing_scripts": "[CreateThumbnail]\\\\\\nwidth = 300\\\\\\nheight = 300\\\\\\n\\\\\\n\n[CreateThumbnail]\\\\\\nwidth = 32\\\\\\nheight = 32\\\\\\n\\\\\\n\n[SearchAndReplace]\\\\\\nsearch = ;(LAYER|LAYER_COUNT)\\:(\\d+)\\\\\\nreplace = ;\\1:\\2\\n_CURA_SET_PRINT_STATS_INFO \\1=\\2\\\\\\nis_regex = True\\\\\\n\\\\\\n\n",
+        "post_processing_scripts": "[CreateThumbnail]\\\\\\nwidth = 300\\\\\\nheight = 300\\\\\\n\\\\\\n\n[CreateThumbnail]\\\\\\nwidth = 32\\\\\\nheight = 32\\\\\\n\\\\\\n\n[SearchAndReplace]\\\\\\nsearch = ;(LAYER|LAYER_COUNT)\\:(\\d+)\\\\\\nreplace = ;\\1:\\2\\n_CURA_SET_PRINT_STATS_INFO \\1=\\2\\\\\\nis_regex = True\\\\\\n\\\\\\n\n[KlipperPreprocessor]",
         "preferred_material": "generic_pla",
         "preferred_quality_type": "xmax_fast",
         "preferred_variant_name": "0.40mm Nozzle",

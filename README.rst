@@ -12,6 +12,8 @@ Install printer
       4.  Install printer definitions in ~/.local/share/cura/5.7::
 
             curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.local/share/cura/5.7/ -xzv --strip-components=1
+             curl -L https://raw.githubusercontent.com/pedrolamas/klipper-preprocessor/master/KlipperPreprocessor.py -o ~/.local/share/cura/5.7/scripts/KlipperPreprocessor.py
+
 
    b. via flatpak
 
@@ -24,6 +26,7 @@ Install printer
       3. Install printer definitions::
 
              curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.var/app/com.ultimaker.cura/data/cura/5.7/ -xzv --strip-components=1
+             curl -L https://raw.githubusercontent.com/pedrolamas/klipper-preprocessor/master/KlipperPreprocessor.py -o ~/.var/app/com.ultimaker.cura/data/cura/5.7/scripts/KlipperPreprocessor.py
 
 2. start cura again
 
@@ -53,3 +56,45 @@ This repository contains experimental configurations for Qidi X-Max with Icarus
 forward compatible way. So when in doubt, please clear the cura state::
 
   rm -rf ~/.cache/Ultimaker\ B.V. ~/.cache/cura/ ~/.config/cura ~/.local/share/cura
+  
+  
+Klipper Estimator
+=================
+
+In your post-processing scripts, there should be a Klipper Preprocessor.
+Please create a config file::
+
+```
+{
+  "max_velocity": 450.0,
+  "max_acceleration": 6750.0,
+  "minimum_cruise_ratio": 0.5,
+  "square_corner_velocity": 5.0,
+  "instant_corner_velocity": 1.0,
+  "move_checkers": [
+    {
+      "axis_limiter": {
+        "axis": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "max_velocity": 10.0,
+        "max_accel": 15.0
+      }
+    },
+    {
+      "extruder_limiter": {
+        "max_velocity": 120.0,
+        "max_accel": 1796.047292491724
+      }
+    }
+  ]
+}
+```
+
+And download https://github.com/Annex-Engineering/klipper_estimator/releases
+
+In your post-processing configuration, please disable "Add TIMELAPSE_TAKE_FRAME"
+and enable "Use klipper estimator". Specify the **full path** to your config
+file and to klipper estimator
