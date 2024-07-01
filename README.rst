@@ -64,34 +64,32 @@ Klipper Estimator
 In your post-processing scripts, there should be a Klipper Preprocessor.
 Please create a config file::
 
-```
-{
-  "max_velocity": 450.0,
-  "max_acceleration": 6750.0,
-  "minimum_cruise_ratio": 0.5,
-  "square_corner_velocity": 5.0,
-  "instant_corner_velocity": 1.0,
-  "move_checkers": [
-    {
-      "axis_limiter": {
-        "axis": [
-          0.0,
-          0.0,
-          1.0
-        ],
-        "max_velocity": 10.0,
-        "max_accel": 15.0
+  {
+    "max_velocity": 450.0,
+    "max_acceleration": 6750.0,
+    "minimum_cruise_ratio": 0.5,
+    "square_corner_velocity": 5.0,
+    "instant_corner_velocity": 1.0,
+    "move_checkers": [
+      {
+        "axis_limiter": {
+          "axis": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "max_velocity": 10.0,
+          "max_accel": 15.0
+        }
+      },
+      {
+        "extruder_limiter": {
+          "max_velocity": 120.0,
+          "max_accel": 1796.047292491724
+        }
       }
-    },
-    {
-      "extruder_limiter": {
-        "max_velocity": 120.0,
-        "max_accel": 1796.047292491724
-      }
-    }
-  ]
-}
-```
+    ]
+  }
 
 And download https://github.com/Annex-Engineering/klipper_estimator/releases
 
