@@ -90,7 +90,7 @@
         "machine_width": { "default_value": 299 },
         "material_diameter": { "default_value": 1.75 },
         "material_final_print_temperature": { "value": "material_print_temperature" },
-        "material_flow": { "value": "95 if layer_height >= 0.08 else 100" },
+        "material_flow": { "value": "93 if layer_height >= 0.08 else 100" },
         "material_flow_layer_0": { "value": "material_flow" },
         "material_initial_print_temperature": { "value": "material_print_temperature" },
         "material_linear_advance_enable": { "default_value": true },
