@@ -4,12 +4,12 @@
     <name>
       <brand>Polymaker</brand>
       <material>PLA</material>
-      <color>Saphire Blue</color>
-      <label>PolyTerra</label>
+      <color>Savannah Yellow</color>
+      <label>PolyTerra Savannah Yellow</label>
     </name>
     <version>1</version>
-    <GUID>99d4310d-47c1-4024-9ef6-1c2c7701e9d7</GUID>
-    <color_code>#0F52BA</color_code>
+    <GUID>dd57d1f6-2822-4248-a0ea-833aca2a327a</GUID>
+    <color_code>#f0be02</color_code>
     <description />
     <adhesion_info />
   </metadata>
@@ -23,7 +23,7 @@
     <setting key="build volume temperature">0</setting>
     <setting key="print temperature">210.0</setting>
     <setting key="heated bed temperature">60</setting>
-    <setting key="standby temperature">150.0</setting>
+    <setting key="standby temperature">170.0</setting>
     <setting key="print cooling">100.0</setting>
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.03925</cura:setting>

@@ -4,12 +4,12 @@
     <name>
       <brand>Polymaker</brand>
       <material>PLA</material>
-      <color>White</color>
-      <label>PLA</label>
+      <color>Temp Purple</color>
+      <label>Polylite PLA Temp Purple</label>
     </name>
     <version>1</version>
-    <GUID>3916680e-c95f-4ddb-92ae-6793acda6f92</GUID>
-    <color_code>#63B6F5</color_code>
+    <GUID>a2812531-b3a2-494a-b218-7e5c453c8b85</GUID>
+    <color_code>#9C2DA6</color_code>
     <description />
     <adhesion_info />
   </metadata>
@@ -19,14 +19,13 @@
   </properties>
   <settings>
     <setting key="retraction amount">0.5</setting>
-    <setting key="retraction speed">30</setting>
+    <setting key="retraction speed">25</setting>
     <setting key="build volume temperature">0</setting>
-    <setting key="print temperature">215.0</setting>
+    <setting key="print temperature">210.0</setting>
     <setting key="heated bed temperature">60</setting>
-    <setting key="standby temperature">150.0</setting>
+    <setting key="standby temperature">170.0</setting>
     <setting key="print cooling">100.0</setting>
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.03925</cura:setting>
-    <cura:setting key="material_flow">91</cura:setting>
   </settings>
 </fdmmaterial>
