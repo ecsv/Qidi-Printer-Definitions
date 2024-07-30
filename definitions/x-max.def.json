@@ -101,6 +101,7 @@
 	"material_print_temp_wait":  { "value": false },
 	"material_print_temp_prepend":  { "value": false },
 	"material_bed_temp_prepend":  { "value": false },
+        "material_alternate_walls":  { "value": true },
         "meshfix_maximum_resolution": { "value": "0.25" },
         "meshfix_maximum_travel_resolution": { "value": "meshfix_maximum_resolution" },
         "multiple_mesh_overlap": { "value": "0" },
