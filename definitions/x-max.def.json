@@ -124,6 +124,7 @@
         "retraction_combing": { "value": "'no_outer_surfaces'" },
         "retraction_combing_max_distance": { "value": 0.001 },
         "retraction_extrusion_window": { "value": 0.5 },
+        "retraction_hop_enabled": { "value": true },
         "retraction_hop": { "value": 0.48 },
         "retraction_hop_after_extruder_switch": { "value": false },
         "retraction_hop_only_when_collides": { "value": true },
