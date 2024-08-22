@@ -32,7 +32,12 @@
     {
         "acceleration_enabled": { "default_value": true },
         "acceleration_print": { "value": 1500 },
-        "acceleration_travel": { "value": 2000 },
+        "acceleration_travel": { "value": "acceleration_print * 4/3" },
+        "acceleration_wall_0": { "value": "acceleration_print * 3/5" },
+        "acceleration_wall_x": { "value": "acceleration_print" },
+        "acceleration_roofing": { "value": "acceleration_print * 3/5" },
+        "acceleration_topbottom": { "value": "acceleration_print * 3/5" },
+        "acceleration_layer_0": { "value": "acceleration_print / 3" },
         "adaptive_layer_height_variation": { "value": 0.04 },
         "adaptive_layer_height_variation_step": { "value": 0.04 },
         "adhesion_type": { "default_value": "skirt" },
