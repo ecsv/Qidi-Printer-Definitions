@@ -12,7 +12,8 @@ Install printer
       4.  Install printer definitions in ~/.local/share/cura/5.8::
 
             curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.local/share/cura/5.8/ -xzv --strip-components=1
-             curl -L https://raw.githubusercontent.com/pedrolamas/klipper-preprocessor/master/KlipperPreprocessor.py -o ~/.local/share/cura/5.8/scripts/KlipperPreprocessor.py
+            rm -rf ~/.cache/cura/
+            curl -L https://raw.githubusercontent.com/pedrolamas/klipper-preprocessor/master/KlipperPreprocessor.py -o ~/.local/share/cura/5.8/scripts/KlipperPreprocessor.py
 
 
    b. via flatpak
@@ -26,6 +27,7 @@ Install printer
       3. Install printer definitions::
 
              curl -L https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus.tar.gz |tar -C ~/.var/app/com.ultimaker.cura/data/cura/5.8/ -xzv --strip-components=1
+             rm -rf ~/.var/app/com.ultimaker.cura/cache
              curl -L https://raw.githubusercontent.com/pedrolamas/klipper-preprocessor/master/KlipperPreprocessor.py -o ~/.var/app/com.ultimaker.cura/data/cura/5.8/scripts/KlipperPreprocessor.py
 
 2. start cura again
