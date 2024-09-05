@@ -20,8 +20,8 @@ Install printer
 
       1. Install from flathub::
 
-             flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-             flatpak install com.ultimaker.cura
+             flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+             flatpak --user install com.ultimaker.cura
 
       2. start cura once via `flatpak run com.ultimaker.cura`
       3. Install printer definitions::
