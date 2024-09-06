@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#E4E9ED"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG Clear"
+    ],
+    "filament_shrink": [
+        "99.7208%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PolyLite PETG Clear",
+    "version": "0.0.0.0"
+}

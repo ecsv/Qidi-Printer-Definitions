@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#CA1F7B"
+    ],
+    "filament_flow_ratio": [
+        "0.9324"
+    ],
+    "filament_settings_id": [
+        "Polylite PLA Magenta"
+    ],
+    "filament_shrink": [
+        "99.77%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polylite PLA Magenta",
+    "version": "0.0.0.0"
+}

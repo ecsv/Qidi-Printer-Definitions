@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#F78E0E"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_flow_ratio": [
+        "0.9316"
+    ],
+    "filament_settings_id": [
+        "PolyTerra Sunrise Orange"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyTerra Sunrise Orange",
+    "version": "0.0.0.0"
+}

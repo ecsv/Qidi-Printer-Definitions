@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#FFE92A"
+    ],
+    "filament_settings_id": [
+        "Polylite ASA"
+    ],
+    "filament_vendor": [
+        "Polylite ASA"
+    ],
+    "from": "User",
+    "inherits": "Generic ASA",
+    "is_custom_defined": "0",
+    "name": "Polylite ASA",
+    "version": "0.0.0.0"
+}

@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#CFCCD6"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_flow_ratio": [
+        "0.9376"
+    ],
+    "filament_settings_id": [
+        "PolyTerra Marble"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyTerra Marble",
+    "version": "0.0.0.0"
+}

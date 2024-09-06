@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#3D0734"
+    ],
+    "filament_density": [
+        "1.17"
+    ],
+    "filament_flow_ratio": [
+        "0.9352"
+    ],
+    "filament_settings_id": [
+        "Polylite PLA Silk Aubergine Lime-Magenta"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polylite PLA Silk Aubergine Lime-Magenta",
+    "version": "0.0.0.0"
+}

@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#F0BE02"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_settings_id": [
+        "PolyTerra Savannah Yellow"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyTerra Savannah Yellow",
+    "version": "0.0.0.0"
+}

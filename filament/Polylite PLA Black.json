@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_density": [
+        "1.17"
+    ],
+    "filament_flow_ratio": [
+        "0.9239"
+    ],
+    "filament_settings_id": [
+        "Polylite PLA Black"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polylite PLA Black",
+    "version": "0.0.0.0"
+}

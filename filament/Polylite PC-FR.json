@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#F692AD"
+    ],
+    "filament_settings_id": [
+        "Polylite PC-FR"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PCFR",
+    "is_custom_defined": "0",
+    "name": "Polylite PC-FR",
+    "version": "0.0.0.0"
+}

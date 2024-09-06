@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#E6DDDB"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_flow_ratio": [
+        "0.947"
+    ],
+    "filament_settings_id": [
+        "PolyTerra Cotton White"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyTerra Cotton White",
+    "version": "0.0.0.0"
+}

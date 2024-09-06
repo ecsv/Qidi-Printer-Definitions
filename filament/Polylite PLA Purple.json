@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#641BC7"
+    ],
+    "filament_flow_ratio": [
+        "0.948"
+    ],
+    "filament_settings_id": [
+        "Polylite PLA Purple"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polylite PLA Purple",
+    "version": "0.0.0.0"
+}

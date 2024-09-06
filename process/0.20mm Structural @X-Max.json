@@ -1,0 +1,21 @@
+{
+    "from": "User",
+    "gap_infill_speed": "60",
+    "inherits": "0.20mm normal @X-Max",
+    "inner_wall_acceleration": "2500",
+    "inner_wall_speed": "80",
+    "internal_solid_infill_speed": "140",
+    "is_custom_defined": "0",
+    "name": "0.20mm Structural @X-Max",
+    "outer_wall_acceleration": "1500",
+    "outer_wall_speed": "45",
+    "print_settings_id": "0.20mm Structural @X-Max",
+    "sparse_infill_speed": "120",
+    "support_interface_speed": "50",
+    "support_speed": "150",
+    "top_surface_acceleration": "1500",
+    "top_surface_speed": "100",
+    "travel_acceleration": "3500",
+    "travel_speed": "350",
+    "version": "0.0.0.0"
+}

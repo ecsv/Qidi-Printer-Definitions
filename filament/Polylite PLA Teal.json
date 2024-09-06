@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#13C6B0"
+    ],
+    "filament_settings_id": [
+        "Polylite PLA Teal"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polylite PLA Teal",
+    "version": "0.0.0.0"
+}

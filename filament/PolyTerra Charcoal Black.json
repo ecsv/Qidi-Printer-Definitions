@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#1C1C1C"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_flow_ratio": [
+        "0.9193"
+    ],
+    "filament_settings_id": [
+        "PolyTerra Charcoal Black"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyTerra Charcoal Black",
+    "version": "0.0.0.0"
+}
