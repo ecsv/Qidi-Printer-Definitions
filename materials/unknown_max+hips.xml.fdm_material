@@ -24,7 +24,7 @@
     <setting key="standby temperature">200.0</setting>
     <setting key="retraction speed">30.0</setting>
     <setting key="print cooling">10.0</setting>
-    <setting key="retraction amount">0.5</setting>
+    <setting key="retraction amount">0.8</setting>
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.0398</cura:setting>
     <cura:setting key="material_flow">93.0</cura:setting>

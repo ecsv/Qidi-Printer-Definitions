@@ -120,7 +120,7 @@
         "raft_airgap": { "value": 0.25 },
         "raft_surface_layers": { "value": 3 },
         "retract_at_layer_change": { "value": true },
-        "retraction_amount": { "default_value": 0.5 },
+        "retraction_amount": { "default_value": 0.8 },
         "retraction_combing": { "value": "'no_outer_surfaces'" },
         "retraction_combing_max_distance": { "value": 0.001 },
         "retraction_extrusion_window": { "value": 0.5 },
