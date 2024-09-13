@@ -1,0 +1,17 @@
+{
+    "elefant_foot_compensation": "0.168",
+    "from": "User",
+    "inherits": "0.20mm normal @X-Max",
+    "inner_wall_speed": "30",
+    "internal_solid_infill_speed": "30",
+    "is_custom_defined": "0",
+    "name": "0.20mm Engineering @X-Max",
+    "outer_wall_speed": "30",
+    "print_settings_id": "0.20mm Engineering @X-Max",
+    "sparse_infill_speed": "30",
+    "support_speed": "30",
+    "top_surface_speed": "30",
+    "travel_speed": "100",
+    "version": "0.0.0.0",
+    "wall_loops": "3"
+}
