@@ -136,7 +136,7 @@
         "skirt_gap": { "value": 4 },
         "skirt_line_count": { "value": 2 },
         "skirt_brim_minimal_length": { "default_value": 550 },
-        "speed_layer_0": { "value": "20" },
+        "speed_layer_0": { "value": "30" },
         "speed_print": { "value": 50.0 },
         "speed_roofing": { "value": "speed_print / 2" },
         "speed_support": { "value": "speed_print * 0.8" },
