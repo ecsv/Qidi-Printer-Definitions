@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#dfc287"
+    ],
+    "filament_cost": [
+        "43"
+    ],
+    "filament_settings_id": [
+        "Prusament Woodfill Linden"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Prusament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Prusament Woodfill Linden",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "nozzle_temperature_range_high": [
+        "205"
+    ],
+    "version": "0.0.0.0"
+}

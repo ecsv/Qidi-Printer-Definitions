@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#E62216"
+    ],
+    "filament_cost": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "PolyLite PLA Pro Red"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyLite PLA Pro Red",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "0.0.0.0"
+}

@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#ea5e1a"
+    ],
+    "filament_cost": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Prusament PLA Prusa Orange"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Prusament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Prusa Orange",
+    "version": "0.0.0.0"
+}
