@@ -5,6 +5,9 @@
     "filament_cost": [
         "35"
     ],
+    "filament_flow_ratio": [
+        "0.9385"
+    ],
     "filament_settings_id": [
         "PolyLite PLA Pro Red"
     ],

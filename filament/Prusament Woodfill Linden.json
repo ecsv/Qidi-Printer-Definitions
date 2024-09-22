@@ -5,6 +5,9 @@
     "filament_cost": [
         "43"
     ],
+    "filament_flow_ratio": [
+        "0.9687"
+    ],
     "filament_settings_id": [
         "Prusament Woodfill Linden"
     ],

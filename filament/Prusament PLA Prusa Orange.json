@@ -5,6 +5,9 @@
     "filament_cost": [
         "30"
     ],
+    "filament_flow_ratio": [
+        "0.9677"
+    ],
     "filament_settings_id": [
         "Prusament PLA Prusa Orange"
     ],
@@ -17,6 +20,6 @@
     "from": "User",
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA Prusa Orange",
+    "name": "Prusament PLA Prusa Orange",
     "version": "0.0.0.0"
 }
