@@ -43,10 +43,10 @@
         "1"
     ],
     "eng_plate_temp": [
-        "60"
+        "55"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "55"
     ],
     "fan_cooling_layer_time": [
         "17"
@@ -197,10 +197,10 @@
         "1"
     ],
     "hot_plate_temp": [
-        "60"
+        "55"
     ],
     "hot_plate_temp_initial_layer": [
-        "60"
+        "55"
     ],
     "inherits": "",
     "is_custom_defined": "0",
@@ -248,10 +248,10 @@
         "45"
     ],
     "textured_plate_temp": [
-        "60"
+        "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "55"
     ],
     "version": "0.0.0.0"
 }
