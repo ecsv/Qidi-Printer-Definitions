@@ -159,7 +159,7 @@
     "seam_slope_type": "none",
     "single_extruder_multi_material_priming": "1",
     "skirt_distance": "2",
-    "skirt_height": "1",
+    "skirt_height": "2",
     "skirt_loops": "2",
     "skirt_speed": "30",
     "slice_closing_radius": "0.049",
