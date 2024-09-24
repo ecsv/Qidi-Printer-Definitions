@@ -22,7 +22,7 @@
     <setting key="retraction speed">30</setting>
     <setting key="build volume temperature">0</setting>
     <setting key="print temperature">195.0</setting>
-    <cura:setting key="material_initial_print_temperature">195</cura:setting>
+    <cura:setting key="material_print_temperature_layer_0">195</cura:setting>
     <setting key="heated bed temperature">55</setting>
     <setting key="standby temperature">170.0</setting>
     <setting key="print cooling">100.0</setting>
