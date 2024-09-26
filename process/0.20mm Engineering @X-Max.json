@@ -11,7 +11,7 @@
     "sparse_infill_speed": "30",
     "support_speed": "30",
     "top_surface_speed": "30",
-    "travel_speed": "100",
+    "travel_speed": "180",
     "version": "0.0.0.0",
     "wall_loops": "3"
 }
