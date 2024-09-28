@@ -192,7 +192,7 @@
     "spiral_mode": "0",
     "spiral_mode_max_xy_smoothing": "200%",
     "spiral_mode_smooth": "0",
-    "staggered_inner_seams": "0",
+    "staggered_inner_seams": "1",
     "standby_temperature_delta": "-5",
     "support_angle": "0",
     "support_base_pattern": "default",
