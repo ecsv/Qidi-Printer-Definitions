@@ -76,7 +76,7 @@
         "20000"
     ],
     "machine_max_acceleration_z": [
-        "500",
+        "100",
         "200"
     ],
     "machine_max_jerk_e": [
