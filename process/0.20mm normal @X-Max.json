@@ -148,7 +148,7 @@
     "scarf_joint_flow_ratio": "1",
     "scarf_joint_speed": "100%",
     "scarf_overhang_threshold": "40%",
-    "seam_gap": "10%",
+    "seam_gap": "0%",
     "seam_position": "aligned",
     "seam_slope_conditional": "0",
     "seam_slope_entire_loop": "0",
