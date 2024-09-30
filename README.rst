@@ -73,6 +73,7 @@ Please create a config file::
     "minimum_cruise_ratio": 0.5,
     "square_corner_velocity": 5.0,
     "instant_corner_velocity": 1.0,
+    "mm_per_arc_segment": 1.0,
     "move_checkers": [
       {
         "axis_limiter": {
@@ -82,7 +83,7 @@ Please create a config file::
             1.0
           ],
           "max_velocity": 10.0,
-          "max_accel": 15.0
+          "max_accel": 100.0
         }
       },
       {
