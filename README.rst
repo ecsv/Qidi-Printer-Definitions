@@ -41,15 +41,12 @@ Install printer
 
 3. Go to Marketplace to install "OctoPrint Connection" (Green Octo symbol on top of a blue connector)
 4. Restart Cura
-5. Go to Preferences -> Printers -> Connect OctoPrint
+5. Go to Preferences -> Printers -> Connect Moonraker
 
-   a. Select the octopi instance from the list
-   b. Request (API Key) -> Login in browser and grant the access to the application
-   c. enable "Connect to printer before sending printjob"
-   d. Press connect
+   a. Address http://$IP/
+   b. Format "UFP with Thumbnail"
+   c. Press Save
    e. Close dialogs
-
-6. Go to "Monitor" tab to check if the cam is visible and the connection is working
 
 Clear Cura state
 ================
