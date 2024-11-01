@@ -121,6 +121,7 @@
     ],
     "machine_pause_gcode": "M600",
     "machine_start_gcode": "\n; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+    "machine_tool_change_time": "0",
     "machine_unload_filament_time": "0",
     "manual_filament_change": "1",
     "max_layer_height": [
@@ -138,6 +139,7 @@
     "nozzle_type": "undefine",
     "nozzle_volume": "0",
     "parking_pos_retraction": "92",
+    "pellet_modded_printer": "0",
     "preferred_orientation": "0",
     "printable_area": [
         "0x0",
@@ -203,6 +205,9 @@
     "thumbnails_format": "PNG",
     "time_cost": "0",
     "time_lapse_gcode": "",
+    "travel_slope": [
+        "3"
+    ],
     "upward_compatible_machine": [],
     "use_firmware_retraction": "0",
     "use_relative_e_distances": "1",
