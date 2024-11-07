@@ -5,6 +5,18 @@
     "activate_chamber_temp_control": [
         "0"
     ],
+    "adaptive_pressure_advance": [
+        "0"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0"
+    ],
+    "adaptive_pressure_advance_model": [
+        "0,0,0\n0,0,0"
+    ],
+    "adaptive_pressure_advance_overhangs": [
+        "0"
+    ],
     "additional_cooling_fan_speed": [
         "0"
     ],
@@ -87,9 +99,6 @@
     "filament_is_support": [
         "0"
     ],
-    "filament_load_time": [
-        "0"
-    ],
     "filament_loading_speed": [
         "28"
     ],
@@ -156,7 +165,16 @@
     "filament_shrink": [
         "100%"
     ],
+    "filament_shrinkage_compensation_z": [
+        "100%"
+    ],
     "filament_soluble": [
+        "0"
+    ],
+    "filament_stamping_distance": [
+        "0"
+    ],
+    "filament_stamping_loading_speed": [
         "0"
     ],
     "filament_start_gcode": [
@@ -167,9 +185,6 @@
     ],
     "filament_type": [
         "PETG"
-    ],
-    "filament_unload_time": [
-        "0"
     ],
     "filament_unloading_speed": [
         "90"
@@ -202,6 +217,9 @@
     "hot_plate_temp_initial_layer": [
         "75"
     ],
+    "idle_temperature": [
+        "0"
+    ],
     "inherits": "",
     "is_custom_defined": "0",
     "name": "Generic PETG",
@@ -222,6 +240,9 @@
     ],
     "overhang_fan_threshold": [
         "50%"
+    ],
+    "pellet_flow_coefficient": [
+        "0.4157"
     ],
     "pressure_advance": [
         "0.03925"
@@ -246,6 +267,12 @@
     ],
     "temperature_vitrification": [
         "70"
+    ],
+    "textured_cool_plate_temp": [
+        "40"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "40"
     ],
     "textured_plate_temp": [
         "75"
