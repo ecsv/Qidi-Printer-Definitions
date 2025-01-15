@@ -25,7 +25,7 @@
     <setting key="print cooling">10.0</setting>
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.0398</cura:setting>
-    <cura:setting key="material_flow">95.18</cura:setting>
+    <cura:setting key="material_flow">97.55</cura:setting>
     <cura:setting key="cool_min_layer_time">30</cura:setting>
     <cura:setting key="material_shrinkage_percentage_xy">100.28</cura:setting>
   </settings>
