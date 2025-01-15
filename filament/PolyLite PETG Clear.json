@@ -2,6 +2,9 @@
     "default_filament_colour": [
         "#E4E9ED"
     ],
+    "filament_flow_ratio": [
+        "0.9755"
+    ],
     "filament_settings_id": [
         "PolyLite PETG Clear"
     ],
