@@ -169,7 +169,7 @@
     "single_extruder_multi_material_priming": "1",
     "skirt_distance": "2",
     "skirt_height": "2",
-    "skirt_loops": "2",
+    "skirt_loops": "0",
     "skirt_speed": "30",
     "skirt_start_angle": "-135",
     "skirt_type": "combined",
