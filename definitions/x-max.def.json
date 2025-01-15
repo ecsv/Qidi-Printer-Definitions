@@ -40,7 +40,7 @@
         "acceleration_layer_0": { "value": "acceleration_print / 3" },
         "adaptive_layer_height_variation": { "value": 0.04 },
         "adaptive_layer_height_variation_step": { "value": 0.04 },
-        "adhesion_type": { "default_value": "skirt" },
+        "adhesion_type": { "default_value": "none" },
         "alternate_extra_perimeter": { "value": true },
         "bridge_fan_speed": { "default_value": 100 },
         "bridge_fan_speed_2": { "resolve": "max(cool_fan_speed, 50)" },
