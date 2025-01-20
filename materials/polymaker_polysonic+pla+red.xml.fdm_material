@@ -4,17 +4,17 @@
     <name>
       <brand>Polymaker</brand>
       <material>PLA</material>
-      <color>Teal</color>
-      <label>Polylite PLA Teal</label>
+      <color>Red</color>
+      <label>PolySonic PLA Red</label>
     </name>
     <version>1</version>
-    <GUID>9ef4d383-f034-4063-bee5-28b70e1ccea1</GUID>
-    <color_code>#13C6B0</color_code>
+    <GUID>aa10e792-f22b-49a0-a138-e84f899dc19d</GUID>
+    <color_code>#0066d9</color_code>
     <description />
     <adhesion_info />
   </metadata>
   <properties>
-    <density>1.24</density>
+    <density>1.17</density>
     <diameter>1.75</diameter>
   </properties>
   <settings>
@@ -29,6 +29,6 @@
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.028</cura:setting>
     <cura:setting key="material_shrinkage_percentage_xy">100.23</cura:setting>
-    <cura:setting key="material_flow">93.6837</cura:setting>
+    <cura:setting key="material_flow">94.22</cura:setting>
   </settings>
 </fdmmaterial>
