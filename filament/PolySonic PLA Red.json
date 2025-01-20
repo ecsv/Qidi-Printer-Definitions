@@ -1,15 +1,18 @@
 {
     "default_filament_colour": [
-        "#13C6B0"
+        "#e72f1d"
     ],
     "filament_density": [
-        "1.24"
+        "1.23"
     ],
     "filament_flow_ratio": [
-        "0.936837"
+        "0.9422"
+    ],
+    "filament_max_volumetric_speed": [
+        "17"
     ],
     "filament_settings_id": [
-        "Polylite PLA Teal"
+        "PolySonic PLA Red"
     ],
     "filament_shrink": [
         "99.7705%"
@@ -20,6 +23,6 @@
     "from": "User",
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "Polylite PLA Teal",
+    "name": "PolySonic PLA Red",
     "version": "0.0.0.0"
 }

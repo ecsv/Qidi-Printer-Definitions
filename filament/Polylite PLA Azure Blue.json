@@ -1,15 +1,15 @@
 {
     "default_filament_colour": [
-        "#13C6B0"
+        "#0066d9"
     ],
     "filament_density": [
-        "1.24"
+        "1.17"
     ],
     "filament_flow_ratio": [
-        "0.936837"
+        "0.934452"
     ],
     "filament_settings_id": [
-        "Polylite PLA Teal"
+        "Polylite PLA Azure Blue"
     ],
     "filament_shrink": [
         "99.7705%"
@@ -20,6 +20,6 @@
     "from": "User",
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "Polylite PLA Teal",
+    "name": "Polylite PLA Azure Blue",
     "version": "0.0.0.0"
 }
