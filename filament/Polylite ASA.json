@@ -1,6 +1,9 @@
 {
     "default_filament_colour": [
-        "#FFE92A"
+        "#000000"
+    ],
+    "filament_flow_ratio": [
+        "0.914613"
     ],
     "filament_settings_id": [
         "Polylite ASA"

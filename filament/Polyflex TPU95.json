@@ -2,18 +2,21 @@
     "default_filament_colour": [
         "#000000"
     ],
+    "filament_density": [
+        "1.16"
+    ],
     "filament_flow_ratio": [
-        "0.902585"
+        "1.0153"
     ],
     "filament_settings_id": [
-        "Polylite PC-FR"
+        "Polyflex TPU95"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
-    "inherits": "Generic PCFR",
+    "inherits": "Generic TPU",
     "is_custom_defined": "0",
-    "name": "Polylite PC-FR",
+    "name": "Polyflex TPU95",
     "version": "0.0.0.0"
 }

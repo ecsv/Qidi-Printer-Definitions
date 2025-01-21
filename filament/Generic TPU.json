@@ -6,13 +6,13 @@
         "0"
     ],
     "adaptive_pressure_advance": [
-        "0"
+        "1"
     ],
     "adaptive_pressure_advance_bridges": [
         "0"
     ],
     "adaptive_pressure_advance_model": [
-        "0,0,0\n0,0,0"
+        "0.028,3.82,1000\n0.022,3.82,2000\n0.018,3.82,3000\n0.025,7.641,1000\n0.017,7.641,2000\n0.017,7.641,3000\n0.024,11.46,1000\n0.017,11.46,2000\n0.017,11.46,3000"
     ],
     "adaptive_pressure_advance_overhangs": [
         "0"
@@ -34,10 +34,10 @@
         "80"
     ],
     "cool_plate_temp": [
-        "0"
+        "35"
     ],
     "cool_plate_temp_initial_layer": [
-        "0"
+        "35"
     ],
     "default_filament_colour": [
         ""
@@ -55,19 +55,19 @@
         "1"
     ],
     "eng_plate_temp": [
-        "90"
+        "55"
     ],
     "eng_plate_temp_initial_layer": [
-        "90"
+        "55"
     ],
     "fan_cooling_layer_time": [
-        "100"
+        "17"
     ],
     "fan_max_speed": [
-        "25"
+        "100"
     ],
     "fan_min_speed": [
-        "10"
+        "100"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -82,7 +82,7 @@
         "25.4"
     ],
     "filament_density": [
-        "1.08"
+        "1.24"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -94,7 +94,7 @@
         " "
     ],
     "filament_flow_ratio": [
-        "0.908352"
+        "0.95"
     ],
     "filament_is_support": [
         "0"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "7"
+        "3"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -160,7 +160,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Generic HIPS"
+        "Generic TPU"
     ],
     "filament_shrink": [
         "100%"
@@ -184,7 +184,7 @@
         "0"
     ],
     "filament_type": [
-        "HIPS"
+        "TPU"
     ],
     "filament_unloading_speed": [
         "90"
@@ -212,28 +212,28 @@
         "1"
     ],
     "hot_plate_temp": [
-        "90"
+        "55"
     ],
     "hot_plate_temp_initial_layer": [
-        "90"
+        "55"
     ],
     "idle_temperature": [
         "0"
     ],
     "inherits": "",
     "is_custom_defined": "0",
-    "name": "Generic HIPS",
+    "name": "Generic TPU",
     "nozzle_temperature": [
-        "230"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
         "230"
     ],
     "nozzle_temperature_range_high": [
-        "245"
+        "230"
     ],
     "nozzle_temperature_range_low": [
-        "230"
+        "190"
     ],
     "overhang_fan_speed": [
         "100"
@@ -245,7 +245,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.0398"
+        "0.028"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -275,10 +275,10 @@
         "40"
     ],
     "textured_plate_temp": [
-        "90"
+        "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "90"
+        "55"
     ],
     "version": "0.0.0.0"
 }
