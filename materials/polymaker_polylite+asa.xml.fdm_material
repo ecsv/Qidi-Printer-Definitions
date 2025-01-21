@@ -9,7 +9,7 @@
     </name>
     <version>1</version>
     <GUID>416eead4-0d8e-4f0b-8bfc-a91a519befa5</GUID>
-    <color_code>#ffe92a</color_code>
+    <color_code>#000000</color_code>
     <description />
     <adhesion_info />
   </metadata>
@@ -27,5 +27,6 @@
     <setting key="print cooling">10.0</setting>
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.0398</cura:setting>
+    <cura:setting key="material_flow">91.46132</cura:setting>
   </settings>
 </fdmmaterial>

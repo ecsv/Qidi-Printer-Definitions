@@ -8,7 +8,7 @@
       <label>PC-FR</label>
     </name>
     <cura:breakaway_compatible>False</cura:breakaway_compatible>
-    <color_code>#f692ad</color_code>
+    <color_code>#000000</color_code>
     <version>15</version>
     <cura:ppa_original_file>generic_pc</cura:ppa_original_file>
     <cura:pva_compatible>False</cura:pva_compatible>
@@ -92,7 +92,7 @@
     <cura:setting key="support_interface_density">87.5</cura:setting>
     <setting key="adhesion tendency">0</setting>
 	<setting key="retraction amount">1.0</setting>
-    <cura:setting key="material_flow">89.0</cura:setting>
+    <cura:setting key="material_flow">90.2585</cura:setting>
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.036</cura:setting>
    </settings>
