@@ -45,7 +45,7 @@
     "host_type": "octoprint",
     "inherits": "",
     "is_custom_defined": "0",
-    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
     "long_retractions_when_cut": [
         "0"
     ],
@@ -120,7 +120,7 @@
         "0"
     ],
     "machine_pause_gcode": "M600",
-    "machine_start_gcode": "\n; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+    "machine_start_gcode": "\n; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
     "machine_tool_change_time": "0",
     "machine_unload_filament_time": "0",
     "manual_filament_change": "1",
