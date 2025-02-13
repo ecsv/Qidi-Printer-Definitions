@@ -132,6 +132,7 @@
         "retraction_min_travel": { "value": 1.0 },
         "retraction_prime_speed": { "value": 25.0 },
         "retraction_retract_speed": { "value": 35.0 },
+        "scarf_joint_seam_length": { "default_value": 20 },
         "seam_overhang_angle": { "resolve": "support_angle * 0.8" },
         "skin_line_width": { "value": "machine_nozzle_size" },
         "skin_monotonic": { "value": "roofing_layer_count == 0" },
