@@ -9,7 +9,11 @@ Install printer
       2. mark the appimage as executable (``chmod +x ~/orca``)
       3. start Orcaslicer via ``~/orca``
 
-   b. via flatpak (TODO)
+   b. via flatpak
+
+      1. download (`x86_64`) flatpak from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.0
+      2. install it via `flatpak install --user OrcaSlicer-Linux-flatpak_V2.3.0_x86_64.flatpak`
+      3. start it via `flatpak run io.github.softfever.OrcaSlicer` or your desktop environment runner
 
 2. Select to use the System SSL certificates (and let it remember the choice)
 3. Go through each step of the Setup Wizard and create a dummy printer (which will not be used by us)
@@ -52,9 +56,4 @@ This repository contains experimental configurations for Qidi X-Max with Icarus
 forward compatible way. So when in doubt, please clear the Orcaslicer state::
 
   rm -rf ~/.cache/orca-slicer/ ~/.local/share/orca-slicer/ ~/.config/OrcaSlicer/
-  
-  
-Klipper Estimator
-=================
-
-TODO
+  rm -rf ~/.var/app/io.github.softfever.OrcaSlicer/
