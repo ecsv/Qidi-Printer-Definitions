@@ -28,5 +28,6 @@
     <cura:setting key="material_linear_advance_enable">true</cura:setting>
     <cura:setting key="material_linear_advance_factor">0.0398</cura:setting>
     <cura:setting key="material_flow">91.46132</cura:setting>
+    <cura:setting key="material_shrinkage_percentage_xy">100.624</cura:setting>
   </settings>
 </fdmmaterial>
