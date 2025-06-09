@@ -29,5 +29,6 @@
     <cura:setting key="material_linear_advance_factor">0.0398</cura:setting>
     <cura:setting key="material_flow">90.8352</cura:setting>
     <cura:setting key="cool_fan_speed_max">25</cura:setting>
+    <cura:setting key="material_shrinkage_percentage_xy">100.623</cura:setting>
   </settings>
 </fdmmaterial>
