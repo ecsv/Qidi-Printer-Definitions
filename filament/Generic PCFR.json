@@ -67,7 +67,7 @@
         "100"
     ],
     "fan_min_speed": [
-        "50"
+        "10"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -251,7 +251,7 @@
         "0.036"
     ],
     "reduce_fan_stop_start_freq": [
-        "0"
+        "1"
     ],
     "required_nozzle_HRC": [
         "0"
