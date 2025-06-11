@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#cc8a00"
+    ],
+    "filament_flow_ratio": [
+        "0.9826"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG Gold"
+    ],
+    "filament_shrink": [
+        "99.7208%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PolyLite PETG Gold",
+    "version": "0.0.0.0"
+}
