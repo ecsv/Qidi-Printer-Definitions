@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Polymaker</brand>
+      <material>PLA</material>
+      <color>Jungle Green</color>
+      <label>Polylite PLA Jungle Green</label>
+    </name>
+    <version>1</version>
+    <GUID>9f745e39-8559-4970-9292-fb3eb7408946</GUID>
+    <color_code>#446b20</color_code>
+    <description />
+    <adhesion_info />
+  </metadata>
+  <properties>
+    <density>1.24</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="retraction amount">0.8</setting>
+    <setting key="retraction speed">30</setting>
+    <setting key="build volume temperature">0</setting>
+    <setting key="print temperature">225.0</setting>
+    <cura:setting key="material_print_temperature_layer_0">230.0</cura:setting>
+    <setting key="heated bed temperature">55</setting>
+    <setting key="standby temperature">170.0</setting>
+    <setting key="print cooling">100.0</setting>
+    <cura:setting key="material_linear_advance_enable">true</cura:setting>
+    <cura:setting key="material_linear_advance_factor">0.028</cura:setting>
+    <cura:setting key="material_shrinkage_percentage_xy">100.23</cura:setting>
+    <cura:setting key="material_flow">94.7232</cura:setting>
+  </settings>
+</fdmmaterial>
