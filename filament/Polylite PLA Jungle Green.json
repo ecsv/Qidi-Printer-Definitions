@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#446b20"
+    ],
+    "filament_flow_ratio": [
+        "0.947232"
+    ],
+    "filament_settings_id": [
+        "Polylite PLA Jungle Green"
+    ],
+    "filament_shrink": [
+        "99.7705%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polylite PLA Jungle Green",
+    "version": "0.0.0.0"
+}

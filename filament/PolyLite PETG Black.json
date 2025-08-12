@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#101820"
+    ],
+    "filament_flow_ratio": [
+        "0.957825"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG Black"
+    ],
+    "filament_shrink": [
+        "99.7208%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PolyLite PETG Black",
+    "version": "0.0.0.0"
+}
