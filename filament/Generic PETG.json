@@ -64,7 +64,7 @@
         "10"
     ],
     "fan_max_speed": [
-        "10"
+        "15"
     ],
     "fan_min_speed": [
         "10"
@@ -85,7 +85,7 @@
         "1.23"
     ],
     "filament_deretraction_speed": [
-        "nil"
+        "20"
     ],
     "filament_diameter": [
         "1.75"
@@ -221,16 +221,19 @@
         "0"
     ],
     "inherits": "",
+    "internal_bridge_fan_speed": [
+        "-1"
+    ],
     "is_custom_defined": "0",
     "name": "Generic PETG",
     "nozzle_temperature": [
-        "235"
+        "240"
     ],
     "nozzle_temperature_initial_layer": [
-        "235"
+        "245"
     ],
     "nozzle_temperature_range_high": [
-        "240"
+        "245"
     ],
     "nozzle_temperature_range_low": [
         "230"
@@ -261,6 +264,12 @@
     ],
     "slow_down_min_speed": [
         "20"
+    ],
+    "supertack_plate_temp": [
+        "35"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "35"
     ],
     "support_material_interface_fan_speed": [
         "-1"
