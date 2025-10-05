@@ -5,14 +5,14 @@ Install printer
 
    a. as AppImage:
 
-      1. download appimage from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.0 and safe it as ``orca``
+      1. download appimage from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.1 and safe it as ``orca``
       2. mark the appimage as executable (``chmod +x ~/orca``)
       3. start Orcaslicer via ``~/orca``
 
    b. via flatpak
 
-      1. download (`x86_64`) flatpak from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.0
-      2. install it via `flatpak install --user OrcaSlicer-Linux-flatpak_V2.3.0_x86_64.flatpak`
+      1. download (`x86_64`) flatpak from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.1
+      2. install it via `flatpak install --user OrcaSlicer-Linux-flatpak_V2.3.1_x86_64.flatpak`
       3. start it via `flatpak run io.github.softfever.OrcaSlicer` or your desktop environment runner
 
 2. Select to use the System SSL certificates (and let it remember the choice)

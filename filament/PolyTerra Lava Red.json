@@ -11,9 +11,6 @@
     "filament_settings_id": [
         "PolyTerra Lava Red"
     ],
-    "filament_shrink": [
-        "99.7705%"
-    ],
     "from": "User",
     "inherits": "Generic PLA",
     "is_custom_defined": "0",

@@ -16,6 +16,7 @@
     "change_filament_gcode": "",
     "cooling_tube_length": "5",
     "cooling_tube_retraction": "91.5",
+    "default_bed_type": "",
     "default_filament_profile": [],
     "default_print_profile": "",
     "deretraction_speed": [
@@ -95,6 +96,10 @@
         "0.2",
         "0.4"
     ],
+    "machine_max_junction_deviation": [
+        "0",
+        "0"
+    ],
     "machine_max_speed_e": [
         "120",
         "120"
@@ -127,9 +132,11 @@
     "max_layer_height": [
         "0.32"
     ],
+    "max_resonance_avoidance_speed": "120",
     "min_layer_height": [
         "0.08"
     ],
+    "min_resonance_avoidance_speed": "70",
     "name": "Qidi X-Max Icarus 0.4 nozzle",
     "nozzle_diameter": [
         "0.4"
@@ -158,6 +165,7 @@
     "printhost_ssl_ignore_revoke": "0",
     "printing_by_object_gcode": "",
     "purge_in_prime_tower": "0",
+    "resonance_avoidance": "0",
     "retract_before_wipe": [
         "70%"
     ],
@@ -172,9 +180,6 @@
     ],
     "retract_lift_enforce": [
         "All Surfaces"
-    ],
-    "retract_on_top_layer": [
-        "1"
     ],
     "retract_restart_extra": [
         "0"
