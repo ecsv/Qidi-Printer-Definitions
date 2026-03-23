@@ -2,6 +2,9 @@
     "default_filament_colour": [
         "#446b20"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.947232"
     ],
@@ -13,7 +16,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "Polylite PLA Jungle Green",
     "version": "0.0.0.0"
 }

@@ -5,6 +5,9 @@
     "filament_density": [
         "1.17"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.9469"
     ],
@@ -16,7 +19,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "Polylite PLA Black",
     "version": "0.0.0.0"
 }

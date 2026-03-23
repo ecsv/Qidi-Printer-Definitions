@@ -5,6 +5,9 @@
     "filament_density": [
         "1.16"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "1.0153"
     ],
@@ -16,7 +19,6 @@
     ],
     "from": "User",
     "inherits": "Generic TPU",
-    "is_custom_defined": "0",
     "name": "Polyflex TPU95",
     "version": "0.0.0.0"
 }

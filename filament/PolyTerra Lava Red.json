@@ -5,6 +5,9 @@
     "filament_density": [
         "1.31"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.9598"
     ],
@@ -13,7 +16,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PolyTerra Lava Red",
     "version": "0.0.0.0"
 }

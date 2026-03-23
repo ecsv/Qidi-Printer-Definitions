@@ -5,6 +5,9 @@
     "filament_density": [
         "1.31"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_settings_id": [
         "PolyTerra Lavender Purple"
     ],
@@ -13,7 +16,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PolyTerra Lavender Purple",
     "version": "0.0.0.0"
 }

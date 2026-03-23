@@ -7,11 +7,16 @@
     "inner_wall_acceleration": "2500",
     "inner_wall_speed": "140",
     "internal_solid_infill_speed": "140",
-    "is_custom_defined": "0",
     "layer_height": "0.12",
     "name": "0.12mm Fast Detail @X-Max",
     "outer_wall_acceleration": "2000",
     "outer_wall_speed": "140",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "print_settings_id": "0.12mm Fast Detail @X-Max",
     "sparse_infill_speed": "200",
     "support_interface_speed": "50",

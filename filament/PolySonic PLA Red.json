@@ -5,6 +5,9 @@
     "filament_density": [
         "1.23"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.9422"
     ],
@@ -19,7 +22,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PolySonic PLA Red",
     "version": "0.0.0.0"
 }
