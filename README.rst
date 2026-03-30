@@ -9,11 +9,11 @@ Install printer
       2. mark the appimage as executable (``chmod +x ~/orca``)
       3. start Orcaslicer via ``~/orca``
 
-   b. via flatpak
+   b. Install from flathub::
 
-      1. download (`x86_64`) flatpak from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.2
-      2. install it via `flatpak install --user OrcaSlicer-Linux-flatpak_V2.3.2_x86_64.flatpak`
-      3. start it via `flatpak run io.github.softfever.OrcaSlicer` or your desktop environment runner
+         flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+         flatpak --user config --set languages ""
+         flatpak --user install com.orcaslicer.OrcaSlicer
 
 2. Select to use the System SSL certificates (and let it remember the choice)
 3. Go through each step of the Setup Wizard and create a dummy printer (which will not be used by us)
@@ -27,8 +27,8 @@ Install printer
 
 4. If the "New Version" dialog appears, just select "Check for stable updates only" and then "Skip this version"
 
-5. Download profiles from https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/xmax_icarus_orca.zip
-6. Go to ``File`` -> ``Import`` -> ``Import Configs`` and select the downloaded ``Qidi-Printer-Definitions-xmax_icarus_orca.zip``
+5. Download profiles from https://github.com/ecsv/Qidi-Printer-Definitions/archive/refs/heads/orcaslicer.zip
+6. Go to ``File`` -> ``Import`` -> ``Import Configs`` and select the downloaded ``Qidi-Printer-Definitions-orcaslicer.zip``
 7. Repeat the last step (no, I am not joking) and let it overwrite all profiles/filaments
 8. Switch to the ``Prepare`` tab and switch the printer to ``Qidi X-Max Icarus 0.4 nozzle``
 9. Click on the Wifi symbol next to the printer to set the ``Hostname, IP or URL`` point to the printer ``$IP``, select as "Agent" ``Moonraker``
