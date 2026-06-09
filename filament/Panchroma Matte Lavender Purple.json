@@ -9,13 +9,13 @@
         "Direct Drive Standard"
     ],
     "filament_settings_id": [
-        "PolyTerra Lavender Purple"
+        "Panchroma Matte Lavender Purple"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra Lavender Purple",
+    "name": "Panchroma Matte Lavender Purple",
     "version": "0.0.0.0"
 }

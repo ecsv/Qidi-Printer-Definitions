@@ -9,13 +9,13 @@
         "0.947232"
     ],
     "filament_settings_id": [
-        "Polylite PLA Jungle Green"
+        "Panchroma Regular Jungle Green"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Jungle Green",
+    "name": "Panchroma Regular Jungle Green",
     "version": "0.0.0.0"
 }

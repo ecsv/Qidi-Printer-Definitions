@@ -9,13 +9,13 @@
         "0.9392"
     ],
     "filament_settings_id": [
-        "Polylite PLA Stone Blue"
+        "Panchroma Regular Stone Blue"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Stone Blue",
+    "name": "Panchroma Regular Stone Blue",
     "version": "0.0.0.0"
 }

@@ -9,13 +9,13 @@
         "0.936837"
     ],
     "filament_settings_id": [
-        "Polylite PLA Teal"
+        "Panchroma Regular Teal"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Teal",
+    "name": "Panchroma Regular Teal",
     "version": "0.0.0.0"
 }

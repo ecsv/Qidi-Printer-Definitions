@@ -9,13 +9,13 @@
         "0.9525"
     ],
     "filament_settings_id": [
-        "Polylite PLA Starlight Neptune"
+        "Panchroma Starlight Neptune"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Starlight Neptune",
+    "name": "Panchroma Starlight Neptune",
     "version": "0.0.0.0"
 }

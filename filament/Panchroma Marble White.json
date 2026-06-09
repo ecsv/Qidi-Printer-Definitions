@@ -12,13 +12,13 @@
         "0.9609"
     ],
     "filament_settings_id": [
-        "PolyTerra Marble"
+        "Panchroma Marble White"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra Marble",
+    "name": "Panchroma Marble White",
     "version": "0.0.0.0"
 }

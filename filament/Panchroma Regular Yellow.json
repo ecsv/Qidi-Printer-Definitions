@@ -9,13 +9,13 @@
         "0.9471"
     ],
     "filament_settings_id": [
-        "Polylite PLA Yellow"
+        "Panchroma Regular Yellow"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Yellow",
+    "name": "Panchroma Regular Yellow",
     "version": "0.0.0.0"
 }

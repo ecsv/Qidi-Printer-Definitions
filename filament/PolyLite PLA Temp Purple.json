@@ -1,21 +1,21 @@
 {
     "default_filament_colour": [
-        "#F9A215"
+        "#9C2DA6"
     ],
     "filament_extruder_variant": [
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.9471"
+        "0.9724"
     ],
     "filament_settings_id": [
-        "Panchroma Translucent Yellow"
+        "PolyLite PLA Temp Purple"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Panchroma Translucent Yellow",
+    "name": "PolyLite PLA Temp Purple",
     "version": "0.0.0.0"
 }

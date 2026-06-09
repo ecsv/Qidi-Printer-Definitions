@@ -1,21 +1,21 @@
 {
     "default_filament_colour": [
-        "#9C2DA6"
+        "#641BC7"
     ],
     "filament_extruder_variant": [
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.9724"
+        "0.9716"
     ],
     "filament_settings_id": [
-        "Polylite PLA Temp Purple"
+        "PolyLite PLA Pro Purple"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Temp Purple",
+    "name": "PolyLite PLA Pro Purple",
     "version": "0.0.0.0"
 }

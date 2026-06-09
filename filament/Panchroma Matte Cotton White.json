@@ -12,13 +12,13 @@
         "0.9706"
     ],
     "filament_settings_id": [
-        "PolyTerra Cotton White"
+        "Panchroma Matte Cotton White"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra Cotton White",
+    "name": "Panchroma Matte Cotton White",
     "version": "0.0.0.0"
 }

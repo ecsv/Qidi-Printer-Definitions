@@ -9,13 +9,13 @@
         "0.9214"
     ],
     "filament_settings_id": [
-        "Polylite PLA Olive Green"
+        "Panchroma Regular Olive Green"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Olive Green",
+    "name": "Panchroma Regular Olive Green",
     "version": "0.0.0.0"
 }

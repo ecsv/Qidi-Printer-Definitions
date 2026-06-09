@@ -9,7 +9,7 @@
         "0.9557"
     ],
     "filament_settings_id": [
-        "Polylite PLA Magenta"
+        "Panchroma Regular Magenta"
     ],
     "filament_shrink": [
         "99.77%"
@@ -19,6 +19,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Magenta",
+    "name": "Panchroma Regular Magenta",
     "version": "0.0.0.0"
 }

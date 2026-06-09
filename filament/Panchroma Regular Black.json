@@ -12,13 +12,13 @@
         "0.9469"
     ],
     "filament_settings_id": [
-        "Polylite PLA Black"
+        "Panchroma Regular Black"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Black",
+    "name": "Panchroma Regular Black",
     "version": "0.0.0.0"
 }

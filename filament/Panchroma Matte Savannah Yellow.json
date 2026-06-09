@@ -9,13 +9,13 @@
         "Direct Drive Standard"
     ],
     "filament_settings_id": [
-        "PolyTerra Savannah Yellow"
+        "Panchroma Matte Savannah Yellow"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra Savannah Yellow",
+    "name": "Panchroma Matte Savannah Yellow",
     "version": "0.0.0.0"
 }

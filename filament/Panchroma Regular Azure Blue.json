@@ -12,13 +12,13 @@
         "0.934452"
     ],
     "filament_settings_id": [
-        "Polylite PLA Azure Blue"
+        "Panchroma Regular Azure Blue"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Azure Blue",
+    "name": "Panchroma Regular Azure Blue",
     "version": "0.0.0.0"
 }

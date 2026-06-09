@@ -9,13 +9,13 @@
         "0.9595"
     ],
     "filament_settings_id": [
-        "Polylite PLA Blue"
+        "Panchroma Regular Blue"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Polylite PLA Blue",
+    "name": "Panchroma Regular Blue",
     "version": "0.0.0.0"
 }

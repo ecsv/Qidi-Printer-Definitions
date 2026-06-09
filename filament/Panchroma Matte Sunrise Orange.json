@@ -12,13 +12,13 @@
         "0.9549"
     ],
     "filament_settings_id": [
-        "PolyTerra Sunrise Orange"
+        "Panchroma Matte Sunrise Orange"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra Sunrise Orange",
+    "name": "Panchroma Matte Sunrise Orange",
     "version": "0.0.0.0"
 }

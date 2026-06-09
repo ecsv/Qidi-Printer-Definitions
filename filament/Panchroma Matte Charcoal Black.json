@@ -12,13 +12,13 @@
         "0.9422"
     ],
     "filament_settings_id": [
-        "PolyTerra Charcoal Black"
+        "Panchroma Matte Charcoal Black"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra Charcoal Black",
+    "name": "Panchroma Matte Charcoal Black",
     "version": "0.0.0.0"
 }

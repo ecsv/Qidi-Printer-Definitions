@@ -9,13 +9,13 @@
         "Direct Drive Standard"
     ],
     "filament_settings_id": [
-        "PolyTerra PLA+ Grey"
+        "Panchroma Matte Grey"
     ],
     "filament_vendor": [
         "Polymaker"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "PolyTerra PLA+ Grey",
+    "name": "Panchroma Matte Grey",
     "version": "0.0.0.0"
 }
