@@ -1,0 +1,24 @@
+{
+    "default_filament_colour": [
+        "#EE9BB5"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.9557"
+    ],
+    "filament_settings_id": [
+        "Panchroma Regular Pink"
+    ],
+    "filament_shrink": [
+        "99.77%"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Panchroma Regular Pink",
+    "version": "0.0.0.0"
+}
