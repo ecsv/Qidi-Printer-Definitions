@@ -5,7 +5,7 @@ Install printer
 
    a. as AppImage:
 
-      1. download appimage from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.2 and safe it as ``orca``
+      1. download appimage from https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.4.0 and safe it as ``orca``
       2. mark the appimage as executable (``chmod +x ~/orca``)
       3. start Orcaslicer via ``~/orca``
 
