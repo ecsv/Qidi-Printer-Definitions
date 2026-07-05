@@ -2,6 +2,9 @@
     "default_filament_colour": [
         "#F9A215"
     ],
+    "filament_density": [
+        "1.37"
+    ],
     "filament_extruder_variant": [
         "Direct Drive Standard"
     ],
