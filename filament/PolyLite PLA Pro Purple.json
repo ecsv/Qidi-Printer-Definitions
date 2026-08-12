@@ -1,21 +1,27 @@
 {
-    "default_filament_colour": [
-        "#641BC7"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_flow_ratio": [
-        "0.9716"
-    ],
-    "filament_settings_id": [
-        "PolyLite PLA Pro Purple"
-    ],
-    "filament_vendor": [
-        "Polymaker"
-    ],
-    "from": "User",
-    "inherits": "Generic PLA",
-    "name": "PolyLite PLA Pro Purple",
-    "version": "0.0.0.0"
+	"default_filament_colour": [
+		"#641BC7"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.9691"
+	],
+	"filament_max_volumetric_speed": [
+		"200"
+	],
+	"filament_settings_id": [
+		"PolyLite PLA Pro Purple"
+	],
+	"filament_vendor": [
+		"Polymaker"
+	],
+	"from": "User",
+	"inherits": "Generic PLA",
+	"name": "PolyLite PLA Pro Purple",
+	"slow_down_layer_time": [
+		"0"
+	],
+	"version": "0.0.0.0"
 }
