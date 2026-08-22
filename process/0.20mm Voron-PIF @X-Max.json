@@ -1,0 +1,27 @@
+{
+	"bottom_shell_layers": "5",
+	"bridge_density": "120%",
+	"bridge_flow": "1.2062",
+	"brim_type": "no_brim",
+	"from": "User",
+	"inherits": "0.20mm normal @X-Max",
+	"initial_layer_line_width": "100%",
+	"inner_wall_line_width": "100%",
+	"internal_solid_infill_line_width": "100%",
+	"line_width": "100%",
+	"name": "0.20mm Voron-PIF @X-Max",
+	"outer_wall_line_width": "100%",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Voron-PIF @X-Max",
+	"sparse_infill_density": "40%",
+	"sparse_infill_line_width": "100%",
+	"version": "0.0.0.0",
+	"wall_generator": "classic",
+	"wall_loops": "4",
+	"wall_sequence": "inner-outer-inner wall"
+}
